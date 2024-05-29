@@ -28,12 +28,12 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-https://github.com/mihirkudale/AtliQ-Tees-Talk-to-a-Database-.git
+https://github.com/mihirkudale/AtliQ-Tees-Talk-to-a-Database-LLM-App.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd 4_sqldb_tshirts
+  cd AtliQ-Tees-Talk-to-a-Database-LLM-App
 ```
 3. Install the required dependencies using pip:
 
