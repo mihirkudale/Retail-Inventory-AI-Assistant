@@ -9,8 +9,6 @@ will may ask questions such as,
 - How much sales our store will generate if we can sell all extra-small size t shirts after applying discounts?
 The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
 
-![](atliq_tees.png)
-
 ## Project Highlights
 
 - AtliQ Tees is a t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts 
@@ -30,7 +28,7 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+https://github.com/mihirkudale/AtliQ-Tees-Talk-to-a-Database-.git
 ```
 2.Navigate to the project directory:
 
