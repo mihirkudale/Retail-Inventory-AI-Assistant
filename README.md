@@ -28,12 +28,12 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-https://github.com/mihirkudale/AtliQ-Tees-Talk-to-a-Database-LLM-App.git
+https://github.com/mihirkudale/Retail-Inventory-AI-Assistant.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd AtliQ-Tees-Talk-to-a-Database-LLM-App
+  cd Retail-Inventory-AI-Assistant
 ```
 3. Install the required dependencies using pip:
 
